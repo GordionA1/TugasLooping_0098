@@ -50,4 +50,9 @@ void tampilHasilPrima() {
 
 // Prosedur tampil hasil bilangan fibonacci
 void tampilHasilFibonacci() {
+     if (isFibonacci(angka)) {
+        
+    } else {
+        
+    }
 }
