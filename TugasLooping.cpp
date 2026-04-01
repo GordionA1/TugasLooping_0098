@@ -41,4 +41,9 @@ void inputAngka() {
 
 // Prosedur tampil hasil bilangan prima
 void tampilHasilPrima() {
+      if (isPrima(angka)) {
+       
+    } else {
+        
+    }
 }
