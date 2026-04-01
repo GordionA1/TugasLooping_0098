@@ -38,3 +38,7 @@ void inputAngka() {
     cout << "Masukkan angka: ";
     cin >> angka;
 }
+
+// Prosedur tampil hasil bilangan prima
+void tampilHasilPrima() {
+}
